@@ -1,0 +1,11 @@
+© Reuters. A Tesla car is driven past a dealership of the electric vehicle (EV) maker in Beijing, China January 4, 2024. REUTERS/Florence Lo/
+  TSLA
+-0.18%
+BEIJING (Reuters) -Tesla is doing an effective recall on 1.62 million vehicles, including its models S, X, 3 and Y in China, the market regulator said on Friday.
+The recalls in Tesla (NASDAQ:TSLA)'s second largest market follow two recalls by the automaker in the United States in December.
+Tesla can remotely upgrade the vehicles to fix the issues, the China State Administration for Market Regulation said in a statement. The move is categorised as a product recall under Chinese regulations.
+The U.S. automaker will release an over-the-air software update for 1.61 million units.
+These consist of imported Models S and X and the China-made Models 3 and Y cars made from 2014 to 2023 to avoid misuse of the Autosteer function and cut the risk of collision, the regulator said.
+Separately, it will also upgrade the software for 7,538 units of Models S and X cars to fix the problem of doors that could unlock in crashes.
+In the United States, Tesla started recalling more than 2 million vehicles to install new safeguards in its Autopilot advanced driver-assistance system, after safety concerns cited by a federal regulator.
+It also recalled just over 120,000 Model S and Model X vehicles in the United States over the risk of doors being unlocked and opening during a crash.

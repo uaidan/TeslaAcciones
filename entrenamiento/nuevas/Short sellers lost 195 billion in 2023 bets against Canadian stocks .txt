@@ -1,0 +1,21 @@
+© Reuters. People walk around the Financial District near the New York Stock Exchange (NYSE) in New York, U.S., December 29, 2023. REUTERS/Eduardo Munoz/File Photo
+  US500
++0.18%
+MSFT
+-0.05%
+JPM
++0.50%
+AAPL
+-0.40%
+AMZN
++0.46%
+NVDA
++2.29%
+By Carolina Mandl
+NEW YORK (Reuters) - Investors who bet against U.S. and Canadian stocks had paper losses of $194.9 billion last year following a sharp market rally, data provider S3 Partners Research said on Thursday.
+The firm said 2023 was an “exceedingly difficult year” for short sellers, after the Nasdaq Composite Index surged 43.4% and the S&P 500 rose 24.2%. Investors who short a stock are betting that its price will fall.
+Bets against Tesla (NASDAQ:TSLA), Nvidia (NASDAQ:NVDA), Apple (NASDAQ:AAPL), Meta Platforms (NASDAQ:META), Microsoft (NASDAQ:MSFT) and Amazon.com (NASDAQ:AMZN) were the six biggest losers for short sellers, S3 said.
+Overall, investors’ total short position was $957 billion, S3 said.
+Still, some investors were able to make money betting against stocks, especially during the banking crisis that rocked markets last March.
+Shares of First Republic Bank (OTC:FRCB), which was eventually acquired by JPMorgan Chase (NYSE:JPM), were the most profitable short last year, generating a profit of 840%, or $1.6 billion. Failed lenders SVB Financial Group and Signature Bank (OTC:SBNY) were also the third- and 11th-most profitable bets in 2023, respectively.
+Reuters reported in April that early short sellers in troubled banks were in the small minority.

@@ -1,0 +1,41 @@
+© Reuters
+  GM
++1.42%
+F
++1.54%
+TSLA
+-0.18%
+FSR
+-9.25%
+NIO
+-2.60%
+LI
+-2.71%
+Here is your weekly Pro Recap of the past week's biggest headlines in the electric vehicle space: Chinese brands release 4Q delivery results; GM to cover lost tax credits; and Fisker’s deal with dealerships.
+Get news like this in real-time by signing up for InvestingPro.
+China EVs deliver in 4Q
+Chinese electric vehicle brands released their 4Q delivery figures this week.
+Xpeng Inc (NYSE:XPEV) maintained a steady pace in December, delivering 20,115 vehicles, showing no change from the previous month but marking an impressive 78% surge from the same period last year. Throughout the 4Q of 2023, XPeng reached 60.2k vehicle deliveries, aligning with the lower end of their projected range of 59.5k to 63.5k. Their annual performance for 2023 reflected a solid 17% YoY growth, totaling 141.6k deliveries.
+At the same time, Nio (NYSE:NIO) achieved a milestone of 18,012 vehicle deliveries during the same period, signifying a 13% increase from the prior month and a 14% rise from last year. This comprised 12,048 SUVs (ES6, EC6, ES7, and EC7 models), exhibiting a 14% MoM increase, and 5,964 sedans (ET5, ET5T, and ET7 models), displaying a 10% MoM growth.
+NIO outperformed its 4Q 2023 volume guidance, delivering 50k vehicles against the anticipated range of 47k to 49k units. Overall, NIO experienced substantial growth of 31% YoY in deliveries for 2023, totaling 160k vehicles.
+Li Auto Inc (NASDAQ:LI) reported the delivery of 50,353 vehicles, marking a notable 23% increase from the previous month and a substantial 137% surge compared to the same period last year. For the 4Q of 2023, Li Auto exceeded its projected delivery range, achieving 131.8k vehicles compared to the expected range of 125k to 128k. The overall deliveries for 2023 showcased an impressive 182% YoY growth, totaling 376,030 vehicles.
+Leapmotor (HK:9863) achieved a new milestone last month, delivering 18,600 vehicles, reflecting a 119% YoY increase and an 11% rise compared to the previous month. Sales for 2023 amounted to 144,000 units, marking a 30% YoY increase.
+Electric vehicle giant, Tesla Inc (NASDAQ:TSLA) reportedly sold 94,139 China-made electric vehicles in December, as per data released by the China Passenger Car Association (CPCA), a significant 68.7% surge compared to the same period last year. China-made Model 3 and Model Y deliveries showed a 14.2% increase compared to November.
+Tesla's sales of China-made vehicles, including exports, reached 947,742 for the entire year, representing 52.4% of the company's global deliveries. Globally, Tesla achieved a record-breaking delivery of 484,507 cars in the 4Q, surpassing market expectations. However, it was surpassed by BYD (SZ:002594), losing its leading position as the top electric vehicle maker as the Chinese rival reported a record quarter with sales of 944,779 new energy vehicles.
+Shares of TSLA ended trading Friday down 6.4% for the week.
+As always, InvestingPro subscribers got this news first. Start your 7-day trial to get on board.
+
+
+GM foots the bill
+General Motors Company (NYSE:GM) announced on Wednesday its decision to offer incentives amounting to $7,500 on its electric vehicles, despite the recent loss of a U.S. government tax credit. This move comes after the Treasury released guidelines in December aimed at reshaping the EV supply chain in the U.S. by imposing new battery sourcing requirements to decrease dependence on China. These guidelines took effect this Monday.
+GM communicated to its dealers that it would compensate the equivalent EV tax credit amount "for any vehicles that became ineligible due to the new guidelines." Last month, GM revealed that all its EVs, except for the Chevrolet Bolt, would temporarily lose eligibility for the tax credit. They specifically highlighted that the Cadillac Lyriq and Chevy Blazer EVs faced ineligibility due to issues associated with two minor components.
+Anticipating modifications in sourcing, GM expects the Lyriq and Blazer EVs to regain eligibility in early 2024. Additionally, they clarified that vehicles such as the Chevrolet Equinox EV, Chevrolet Silverado EV, GMC Sierra EV, and Cadillac OPTIQ, manufactured "after the sourcing change," will qualify for the full incentive.
+Similarly, Ford Motor Company (NYSE:F) announced last month that its E-Transit and Mach-E models would no longer qualify for the $3,750 tax credit. However, the F-150 EV Lightning pickup truck and the Lincoln Corsair Grand Touring SUV retained their tax credits.
+Ford disclosed its plans on Wednesday to increase the prices of its entry-level F-150 EVs by $5,000 to $10,000 while reducing prices for select premium models by up to $7,000.
+Shares of GM ended trading down 1.18% for the week after dropping more than 2.4% on Tuesday.
+Fisker's deals with dealerships
+Emerging American electric automaker, Fisker Inc (NYSE:FSR) announced this week its plans to develop an innovative Dealer Partnership model in North America. The company aims to create a distinctive hybrid approach combining direct sales and dealer arrangements, marking a new direction for Fisker's market strategy.
+CEO, Henrik Fisker, revealed in a press release that Fisker is targeting the addition of "as many as 50 dealer partners in the US and Canada, alongside a similar number of dealer locations in Europe" during 2024.
+This Dealer Partnership model seeks to offer Fisker customers fixed pricing (where regulations allow) while also granting dealer partners broader market territories, allowing them to establish pricing without local competition constraints. Since late November 2023, the company has been in talks with several potential dealers to initiate this model.
+Fisker envisions this strategy as a catalyst for boosting the growth of its sales, delivery, and test drive network. The company aims to have its initial dealers receiving vehicles by the end of Q1 2024 and intends to finalize all initial dealer partnerships before introducing higher-volume vehicle models.
+Shares of FSR ended trading on Friday down 25.2% for the week.

@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+selenium
+pandas
+numpy
+requests
+xgboost
+scikit-learn
+colorama

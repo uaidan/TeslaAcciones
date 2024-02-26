@@ -1,0 +1,8 @@
+© Reuters. Tesla (TSLA) recalls 55K Model x EVs
+  TSLA
++0.39%
+The National Highway Traffic Safety Administration (NHTSA) announced Tuesday that Tesla (NASDAQ:TSLA) will be recalling 54,676 Model X vehicles produced from 2021 to 2023 due to a potential issue with the vehicle controller, which may not properly detect low brake fluid and subsequently fail to illuminate a warning light.
+According to the NHTSA, Tesla has issued a cost-free over-the-air (OTA) software update to address the problem.
+As of October 10, Tesla has reported no incidents of crashes, injuries, or fatalities associated with this issue, the regulatory body stated.
+In August, the NHTSA started investigating 280,000 new Tesla Model 3 and Model Y vehicles following accounts of potential loss of steering control and power steering.
+Shares of TSLA are down 1.17% in early trading Tuesday morning.
