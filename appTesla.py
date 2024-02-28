@@ -240,6 +240,7 @@ elif opcion == "Bot de Trading Automático":
     bot_operaciones()
 
 elif opcion == "Proyección a Futuro":
+    doc = "https://github.com/uaidan/TeslaAcciones/blob/main/Future.pdf"
     st.empty()
     st.title("Proyección a Futuro")
 
@@ -256,13 +257,6 @@ elif opcion == "Proyección a Futuro":
 
     espaciador_izquierda, col_central, espaciador_derecha = st.columns([1, 2, 1])
     with col_central:
-        if st.button("Ver Documento de Estrategia"):
-            with st.spinner('Ejecutando... Por favor, espera.'):
-
+        st.markdown(f"[Abrir {archivo_pdf}](./{archivo_pdf})")
                 # Ruta al archivo que deseas abrir
-                ruta_archivo = 'IAfutureSLIDEVIEW.ppsx'
-
-                # Abrir el archivo con la aplicación predeterminada en Windows
-                os.startfile(ruta_archivo)
-                time.sleep(1)
-
+                
