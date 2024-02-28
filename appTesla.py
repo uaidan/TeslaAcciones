@@ -257,6 +257,5 @@ elif opcion == "Proyección a Futuro":
 
     espaciador_izquierda, col_central, espaciador_derecha = st.columns([1, 2, 1])
     with col_central:
-        st.markdown(f"[Abrir {archivo_pdf}](./{archivo_pdf})")
-                # Ruta al archivo que deseas abrir
+        st.markdown(f"[Abrir documento en GitHub]({doc})")
                 
